@@ -16,6 +16,6 @@ Aufgabenstellung
     (5x 220 Widerstände, 2x Grüne LEDs, 2x Rote LEDs, 1x Gelbes LED, 1x Taster, 
 	2x 1k Wiederstände, 1x LDR/lichtempfindlicher elektrischer Widerstand)
 
-	02.2027, OSZ Tiem
+	02.2017, OSZ Tiem
 
 Bilder: https://drive.google.com/drive/folders/11YRovw-GNwGdgaAYZIyQFV8HTInxzn2Y
